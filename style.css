@@ -25,6 +25,7 @@ body {
 }
 
 footer {
+    background-color: rgb(68, 68, 68);
     margin-top: auto;
     padding: 50px;
 }
