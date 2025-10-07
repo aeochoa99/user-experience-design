@@ -21,3 +21,8 @@ nav {
     flex-wrap: wrap;
     list-style: none;
 }
+
+.welcome {
+    margin-bottom: 50px;
+    padding: 100px;
+}
