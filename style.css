@@ -41,7 +41,27 @@ header {
 }
 
 nav {
+    height: 50px;
     width: 100%;
+}
+
+ul {
+    height: 50px;
+}
+
+li {
+    margin-top: 12.5px;
+    margin-bottom: 12.5px;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+    font-size: larger;
+}
+
+li a:hover {
+    text-decoration: underline;
 }
 
 .nav-links {
