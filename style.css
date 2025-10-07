@@ -18,6 +18,17 @@ section {
     margin-right: 20px;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+footer {
+    margin-top: auto;
+    padding: 50px;
+}
+
 header {
     background-image: url(./images/engin-akyurt-LHPehhps2cs-unsplash.jpg);
     background-repeat: no-repeat;
@@ -53,4 +64,8 @@ nav {
 
 .content {
     width: 50%;
+}
+
+.contact {
+    text-align: center;
 }
