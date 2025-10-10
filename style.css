@@ -55,13 +55,16 @@ li {
 }
 
 li a {
+    display: block;
     color: white;
     text-decoration: none;
     font-size: larger;
+    transition: .3s;
 }
 
 li a:hover {
     text-decoration: underline;
+    transform: scale(1.5);
 }
 
 .nav-links {
