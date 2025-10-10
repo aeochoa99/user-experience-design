@@ -41,8 +41,12 @@ header {
 }
 
 nav {
+    position: fixed;
+    top: 0;
+    z-index: 1030;
     height: 50px;
     width: 100%;
+    background-color: rgb(32, 32, 32);
 }
 
 ul {
