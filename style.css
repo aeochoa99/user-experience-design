@@ -101,6 +101,10 @@ h1 {
     color: white;
 }
 
+h2 {
+    font-size: 36px;
+}
+
 .nav-links {
     display: flex;
     justify-content: center;
@@ -131,6 +135,7 @@ h1 {
 
 .content p {
     width: 75%;
+    font-size: 24px;
 }
 
 .contact {
