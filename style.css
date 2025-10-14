@@ -147,3 +147,18 @@ h2 {
     font-size: 20px;
     color: white;
 }
+
+.dining-list {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 20px;
+}
+
+.dining {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin-top: 20px;
+}
