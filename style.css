@@ -5,8 +5,8 @@
 }
 
 .welcome, .about,
-.attractions, .dining,
-.transportation {
+.attractions, .lodging,
+.dining, .transportation {
     display: flex;
     flex-direction: column;
     align-items: center;
