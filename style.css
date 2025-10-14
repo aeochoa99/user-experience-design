@@ -5,7 +5,8 @@
 }
 
 .welcome, .about,
-.attractions, .transportation {
+.attractions, .dining,
+.transportation {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -155,7 +156,7 @@ h2 {
     gap: 20px;
 }
 
-.dining, .hotels {
+.restaurants, .hotels {
     display: flex;
     flex-direction: column;
     align-items: center;
