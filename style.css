@@ -4,10 +4,13 @@
     padding: 0;
 }
 
-header .welcome {
+.welcome, .about {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 50px;
+    padding-top: 200px;
+    padding-bottom: 400px;
 }
 
 section {
@@ -113,10 +116,8 @@ h2 {
     list-style: none;
 }
 
-.welcome {
-    margin-bottom: 50px;
-    padding-top: 200px;
-    padding-bottom: 400px;
+.welcome, .about {
+    
 }
 
 .container {
