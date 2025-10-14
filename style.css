@@ -4,7 +4,8 @@
     padding: 0;
 }
 
-.welcome, .about {
+.welcome, .about,
+.attractions {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -114,10 +115,6 @@ h2 {
     gap: 5%;
     flex-wrap: wrap;
     list-style: none;
-}
-
-.welcome, .about {
-    
 }
 
 .container {
