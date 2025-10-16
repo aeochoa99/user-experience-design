@@ -157,12 +157,15 @@ h2 {
     gap: 20px;
 }
 
-.restaurants, .food-options {
+.restaurants, .food-options,
+.hotels, .rooms {
     display: flex;
     justify-content: space-around;
 }
 
 .restaurants img,
-.food-options img {
+.food-options img,
+.hotels img,
+.rooms img {
     border-radius: 15px;
 }
