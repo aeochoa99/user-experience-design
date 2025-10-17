@@ -167,5 +167,6 @@ h2 {
 .food-options img,
 .hotels img,
 .rooms img {
+    border: 5px solid rgb(231, 123, 0);
     border-radius: 15px;
 }
